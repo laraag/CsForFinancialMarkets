@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch24\AbortThread\bin\Debug\AbortThread.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch24\AbortThread\bin\Debug\AbortThread.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch24\AbortThread\obj\x86\Debug\AbortThread.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch24\AbortThread\obj\x86\Debug\AbortThread.pdb

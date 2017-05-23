@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch4\TestPerson\bin\Debug\TestPerson.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch4\TestPerson\bin\Debug\TestPerson.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch4\TestPerson\obj\x86\Debug\TestPerson.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch4\TestPerson\obj\x86\Debug\TestPerson.pdb

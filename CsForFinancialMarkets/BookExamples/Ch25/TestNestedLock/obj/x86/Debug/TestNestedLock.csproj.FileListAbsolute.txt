@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestNestedLock\bin\Debug\TestNestedLock.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestNestedLock\bin\Debug\TestNestedLock.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestNestedLock\obj\x86\Debug\TestNestedLock.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestNestedLock\obj\x86\Debug\TestNestedLock.pdb

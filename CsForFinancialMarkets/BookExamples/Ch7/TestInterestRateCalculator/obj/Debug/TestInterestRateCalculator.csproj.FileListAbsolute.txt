@@ -1,0 +1,5 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch7\TestInterestRateCalculator\bin\Debug\TestInterestRateCalculator.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch7\TestInterestRateCalculator\bin\Debug\TestInterestRateCalculator.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch7\TestInterestRateCalculator\obj\Debug\TestInterestRateCalculator.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch7\TestInterestRateCalculator\obj\Debug\TestInterestRateCalculator.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch7\TestInterestRateCalculator\obj\Debug\TestInterestRateCalculator.pdb

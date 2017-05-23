@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDirectoryViewes\bin\Debug\TestDirectoryViewes.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDirectoryViewes\bin\Debug\TestDirectoryViewes.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDirectoryViewes\obj\x86\Debug\TestDirectoryViewes.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDirectoryViewes\obj\x86\Debug\TestDirectoryViewes.pdb

@@ -1,0 +1,6 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\02 - Querying Objects\bin\Debug\02 - Querying Objects.exe.config
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\02 - Querying Objects\bin\Debug\02 - Querying Objects.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\02 - Querying Objects\bin\Debug\02 - Querying Objects.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\02 - Querying Objects\obj\Debug\02 - Querying Objects.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\02 - Querying Objects\obj\Debug\02 - Querying Objects.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\02 - Querying Objects\obj\Debug\02 - Querying Objects.pdb

@@ -1,0 +1,5 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v1\bin\Debug\AutomationAddinV1.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v1\bin\Debug\AutomationAddinV1.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v1\bin\Debug\AutomationAddinV1.tlb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v1\obj\Debug\AutomationAddinV1.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v1\obj\Debug\AutomationAddinV1.pdb

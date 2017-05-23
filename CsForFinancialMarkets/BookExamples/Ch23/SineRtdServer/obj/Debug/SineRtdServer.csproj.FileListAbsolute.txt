@@ -1,0 +1,7 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch23\SineRtdServer\obj\Debug\SineRtdServer.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch23\SineRtdServer\bin\Debug\SineRtdServer.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch23\SineRtdServer\bin\Debug\SineRtdServer.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch23\SineRtdServer\bin\Debug\SineRtdServer.tlb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch23\SineRtdServer\obj\Debug\SineRtdServer.csproj.ResolveComReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch23\SineRtdServer\obj\Debug\SineRtdServer.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch23\SineRtdServer\obj\Debug\SineRtdServer.pdb

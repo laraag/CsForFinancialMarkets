@@ -1,0 +1,7 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestPLINQetc\bin\Debug\TestPLINQetc.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestPLINQetc\bin\Debug\TestPLINQetc.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestPLINQetc\bin\Debug\ClassLibraryArrays.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestPLINQetc\bin\Debug\ClassLibraryArrays.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestPLINQetc\obj\x86\Debug\TestPLINQetc.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestPLINQetc\obj\x86\Debug\TestPLINQetc.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch25\TestPLINQetc\obj\x86\Debug\TestPLINQetc.pdb

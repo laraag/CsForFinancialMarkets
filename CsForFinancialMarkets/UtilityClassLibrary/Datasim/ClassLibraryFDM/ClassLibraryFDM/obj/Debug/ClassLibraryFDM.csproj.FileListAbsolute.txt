@@ -1,0 +1,7 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryFDM\ClassLibraryFDM\bin\Debug\ClassLibraryFDM.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryFDM\ClassLibraryFDM\bin\Debug\ClassLibraryFDM.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryFDM\ClassLibraryFDM\bin\Debug\ClassLibraryArrays.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryFDM\ClassLibraryFDM\bin\Debug\ClassLibraryArrays.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryFDM\ClassLibraryFDM\obj\Debug\ClassLibraryFDM.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryFDM\ClassLibraryFDM\obj\Debug\ClassLibraryFDM.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryFDM\ClassLibraryFDM\obj\Debug\ClassLibraryFDM.pdb

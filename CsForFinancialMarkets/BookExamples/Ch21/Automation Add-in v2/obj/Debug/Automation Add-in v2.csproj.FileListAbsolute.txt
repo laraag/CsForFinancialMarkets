@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v2\obj\Debug\Automation Add-in v2.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v2\obj\Debug\Automation Add-in v2.csproj.ResolveComReference.cache
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v2\obj\Debug\Automation Add-in v2.csprojResolveAssemblyReference.cache
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\Automation Add-in v2\obj\Debug\Automation Add-in v2.csproj.ResolveComReference.cache

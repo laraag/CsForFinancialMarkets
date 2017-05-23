@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch24\ThreadDataTransferIV\bin\Debug\ThreadDataTransferIV.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch24\ThreadDataTransferIV\bin\Debug\ThreadDataTransferIV.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch24\ThreadDataTransferIV\obj\x86\Debug\ThreadDataTransferIV.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch24\ThreadDataTransferIV\obj\x86\Debug\ThreadDataTransferIV.pdb

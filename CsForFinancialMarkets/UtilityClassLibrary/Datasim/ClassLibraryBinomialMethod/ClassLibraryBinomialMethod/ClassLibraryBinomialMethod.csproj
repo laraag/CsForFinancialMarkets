@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0EB72F2B-2428-4898-BBF4-359F693F75B6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClassLibraryBinomialMethod</RootNamespace>
+    <AssemblyName>ClassLibraryBinomialMethod</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\LatticeMethods\OneFactorBinomial\BinomialLatticeStrategy.cs">
+      <Link>BinomialLatticeStrategy.cs</Link>
+    </Compile>
+    <Compile Include="..\..\LatticeMethods\OneFactorBinomial\BinomialMethod.cs">
+      <Link>BinomialMethod.cs</Link>
+    </Compile>
+    <Compile Include="..\..\LatticeMethods\OneFactorBinomial\EuropeanOptionFactory.cs">
+      <Link>EuropeanOptionFactory.cs</Link>
+    </Compile>
+    <Compile Include="..\..\LatticeMethods\OneFactorBinomial\Option.cs">
+      <Link>Option.cs</Link>
+    </Compile>
+    <Compile Include="..\..\LatticeMethods\TrinomialMethod\TrinomialParameters.cs">
+      <Link>TrinomialParameters.cs</Link>
+    </Compile>
+    <Compile Include="..\..\LatticeMethods\TrinomialMethod\TrinomialTree.cs">
+      <Link>TrinomialTree.cs</Link>
+    </Compile>
+    <Compile Include="..\..\LatticeMethods\TwoFactorBinomial\TwoFactorBinomial.cs">
+      <Link>TwoFactorBinomial.cs</Link>
+    </Compile>
+    <Compile Include="..\..\LatticeMethods\TwoFactorBinomial\TwoFactorBinomialParameters.cs">
+      <Link>TwoFactorBinomialParameters.cs</Link>
+    </Compile>
+    <Compile Include="..\..\Payoff\Instrument.cs">
+      <Link>Instrument.cs</Link>
+    </Compile>
+    <Compile Include="..\..\Payoff\MultiAssetPayoffStrategy.cs">
+      <Link>MultiAssetPayoffStrategy.cs</Link>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ClassLibraryArrays\ClassLibraryArrays\ClassLibraryArrays.csproj">
+      <Project>{ACCEE025-1FB8-447D-BCA1-C5CF502F3B4F}</Project>
+      <Name>ClassLibraryArrays</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

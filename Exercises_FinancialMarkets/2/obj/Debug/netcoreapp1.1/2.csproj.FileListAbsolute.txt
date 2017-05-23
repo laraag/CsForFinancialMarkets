@@ -1,0 +1,9 @@
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\2.deps.json
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\2.runtimeconfig.json
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\2.runtimeconfig.dev.json
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\obj\Debug\netcoreapp1.1\2.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\obj\Debug\netcoreapp1.1\2.AssemblyInfo.cs
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\2.dll
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\2.pdb
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\obj\Debug\netcoreapp1.1\2.dll
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\obj\Debug\netcoreapp1.1\2.pdb

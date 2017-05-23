@@ -1,0 +1,7 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\PythagorasDistance\bin\Debug\PythagorasDistance.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\PythagorasDistance\bin\Debug\PythagorasDistance.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\PythagorasDistance\bin\Debug\ICalculateDistance.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\PythagorasDistance\bin\Debug\ICalculateDistance.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\PythagorasDistance\obj\Debug\PythagorasDistance.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\PythagorasDistance\obj\Debug\PythagorasDistance.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\PythagorasDistance\obj\Debug\PythagorasDistance.pdb

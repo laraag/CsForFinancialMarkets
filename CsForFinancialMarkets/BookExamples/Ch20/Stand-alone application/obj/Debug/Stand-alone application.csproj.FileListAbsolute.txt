@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch20\Stand-alone application\obj\Debug\Stand-alone application.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch20\Stand-alone application\obj\Debug\Stand-alone application.csproj.ResolveComReference.cache
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch20\Stand-alone application\obj\Debug\Stand-alone application.csprojResolveAssemblyReference.cache
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch20\Stand-alone application\obj\Debug\Stand-alone application.csproj.ResolveComReference.cache

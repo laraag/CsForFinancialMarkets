@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryArrays\ClassLibraryArrays\bin\Debug\ClassLibraryArrays.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryArrays\ClassLibraryArrays\bin\Debug\ClassLibraryArrays.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryArrays\ClassLibraryArrays\obj\Debug\ClassLibraryArrays.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Datasim\ClassLibraryArrays\ClassLibraryArrays\obj\Debug\ClassLibraryArrays.pdb

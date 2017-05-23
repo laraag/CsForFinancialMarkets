@@ -1,0 +1,5 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContractExtraAttribute\bin\Debug\TestDataContractExtraAttribute.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContractExtraAttribute\bin\Debug\TestDataContractExtraAttribute.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContractExtraAttribute\obj\x86\Debug\TestDataContractExtraAttribute.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContractExtraAttribute\obj\x86\Debug\TestDataContractExtraAttribute.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContractExtraAttribute\obj\x86\Debug\TestDataContractExtraAttribute.pdb

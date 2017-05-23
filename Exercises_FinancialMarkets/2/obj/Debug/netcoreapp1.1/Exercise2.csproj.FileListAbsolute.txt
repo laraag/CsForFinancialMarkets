@@ -1,0 +1,16 @@
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\Exercise2.deps.json
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.json
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.dev.json
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\Exercise2.dll
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\bin\Debug\netcoreapp1.1\Exercise2.pdb
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\obj\Debug\netcoreapp1.1\Exercise2.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\obj\Debug\netcoreapp1.1\Exercise2.AssemblyInfo.cs
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\obj\Debug\netcoreapp1.1\Exercise2.dll
+\\bhdgsystematic.com\user\profiles\lasensio\documents\visual studio 2017\Projects\2\2\obj\Debug\netcoreapp1.1\Exercise2.pdb
+D:\CODE\C# for Financial Markets\Exercises_FinancialMarkets\2\bin\Debug\bin\netcoreapp1.1\Exercise2.deps.json
+D:\CODE\C# for Financial Markets\Exercises_FinancialMarkets\2\bin\Debug\bin\netcoreapp1.1\Exercise2.runtimeconfig.json
+D:\CODE\C# for Financial Markets\Exercises_FinancialMarkets\2\bin\Debug\bin\netcoreapp1.1\Exercise2.runtimeconfig.dev.json
+D:\CODE\C# for Financial Markets\Exercises_FinancialMarkets\2\bin\Debug\netcoreapp1.1\Exercise2.deps.json
+D:\CODE\C# for Financial Markets\Exercises_FinancialMarkets\2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.json
+D:\CODE\C# for Financial Markets\Exercises_FinancialMarkets\2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.dev.json
+D:\CODE\C# for Financial Markets\Exercises_FinancialMarkets\2\obj\Debug\netcoreapp1.1\Exercise2.AssemblyInfo.cs

@@ -1,0 +1,6 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\06 - Sub Queries\bin\Debug\06 - Sub Queries.exe.config
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\06 - Sub Queries\bin\Debug\06 - Sub Queries.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\06 - Sub Queries\bin\Debug\06 - Sub Queries.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\06 - Sub Queries\obj\Debug\06 - Sub Queries.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\06 - Sub Queries\obj\Debug\06 - Sub Queries.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch19\06 - Sub Queries\obj\Debug\06 - Sub Queries.pdb

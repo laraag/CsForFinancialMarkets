@@ -1,0 +1,5 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TesXMLSerialiser101\bin\Debug\TesXMLSerialiser101.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TesXMLSerialiser101\bin\Debug\TesXMLSerialiser101.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TesXMLSerialiser101\obj\x86\Debug\TesXMLSerialiser101.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TesXMLSerialiser101\obj\x86\Debug\TesXMLSerialiser101.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TesXMLSerialiser101\obj\x86\Debug\TesXMLSerialiser101.pdb

@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\ICalculateDistance\bin\Debug\ICalculateDistance.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\ICalculateDistance\bin\Debug\ICalculateDistance.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\ICalculateDistance\obj\Debug\ICalculateDistance.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\ICalculateDistance\obj\Debug\ICalculateDistance.pdb

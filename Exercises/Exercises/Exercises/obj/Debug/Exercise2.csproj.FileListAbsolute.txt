@@ -1,0 +1,6 @@
+D:\CODE\C# for Financial Markets\Exercises\Exercises\Exercises\bin\Debug\Exercises.exe.config
+D:\CODE\C# for Financial Markets\Exercises\Exercises\Exercises\bin\Debug\Exercises.exe
+D:\CODE\C# for Financial Markets\Exercises\Exercises\Exercises\bin\Debug\Exercises.pdb
+D:\CODE\C# for Financial Markets\Exercises\Exercises\Exercises\obj\Debug\Exercises.exe
+D:\CODE\C# for Financial Markets\Exercises\Exercises\Exercises\obj\Debug\Exercises.pdb
+D:\CODE\C# for Financial Markets\Exercises\Exercises\Exercises\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache

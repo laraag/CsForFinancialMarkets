@@ -1,0 +1,6 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\ConsoleMain\bin\Debug\Ch21_Examples.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\ConsoleMain\bin\Debug\Ch21_Examples.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\ConsoleMain\obj\x86\Debug\Interop.WindowsInstaller.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\ConsoleMain\obj\x86\Debug\ConsoleMain.csproj.ResolveComReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\ConsoleMain\obj\x86\Debug\Ch21_Examples.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\ConsoleMain\obj\x86\Debug\Ch21_Examples.pdb

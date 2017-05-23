@@ -1,0 +1,7 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\TestDynamicAssemblyLoading\bin\Debug\TestDynamicAssemblyLoading.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\TestDynamicAssemblyLoading\bin\Debug\TestDynamicAssemblyLoading.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\TestDynamicAssemblyLoading\bin\Debug\ICalculateDistance.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\TestDynamicAssemblyLoading\bin\Debug\ICalculateDistance.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\TestDynamicAssemblyLoading\obj\x86\Debug\TestDynamicAssemblyLoading.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\TestDynamicAssemblyLoading\obj\x86\Debug\TestDynamicAssemblyLoading.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch11\TestDynamicAssemblyLoading\TestDynamicAssemblyLoading\obj\x86\Debug\TestDynamicAssemblyLoading.pdb

@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContract_BinarySerialiser\bin\Debug\TestDataContractBinarySerialiser.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContract_BinarySerialiser\bin\Debug\TestDataContractBinarySerialiser.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContract_BinarySerialiser\obj\x86\Debug\TestDataContractBinarySerialiser.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch8\TestDataContract_BinarySerialiser\obj\x86\Debug\TestDataContractBinarySerialiser.pdb

@@ -1,0 +1,6 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\OptionFunctions\bin\Debug\OptionFunctions.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\OptionFunctions\bin\Debug\OptionFunctions.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\OptionFunctions\bin\Debug\ExcelDna.Integration.Wrapper.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\OptionFunctions\obj\Debug\OptionFunctions.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\OptionFunctions\obj\Debug\OptionFunctions.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\OptionFunctions\obj\Debug\OptionFunctions.pdb

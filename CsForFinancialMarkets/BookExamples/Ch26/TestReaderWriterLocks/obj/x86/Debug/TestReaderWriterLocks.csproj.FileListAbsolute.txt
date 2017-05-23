@@ -1,0 +1,4 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch26\TestReaderWriterLocks\bin\Debug\TestReaderWriterLocks.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch26\TestReaderWriterLocks\bin\Debug\TestReaderWriterLocks.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch26\TestReaderWriterLocks\obj\x86\Debug\TestReaderWriterLocks.exe
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch26\TestReaderWriterLocks\obj\x86\Debug\TestReaderWriterLocks.pdb

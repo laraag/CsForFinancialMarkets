@@ -1,0 +1,6 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\TestDNA101\bin\Debug\MyDna.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\TestDNA101\bin\Debug\MyDna.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\TestDNA101\bin\Debug\ExcelDna.Integration.Wrapper.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\TestDNA101\obj\Debug\TestDNA101.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\TestDNA101\obj\Debug\MyDna.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\TestDNA101\obj\Debug\MyDna.pdb

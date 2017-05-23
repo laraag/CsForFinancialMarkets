@@ -1,0 +1,18 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\bin\Debug\COMAddIn.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\bin\Debug\COMAddIn.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\bin\Debug\COMAddIn.tlb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COM Add-In.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COM Add-In.csproj.ResolveComReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\Datasim.InputForm.resources
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COM Add-In.csproj.GenerateResource.Cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COMAddIn.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COMAddIn.pdb
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\bin\Debug\COMAddIn.dll
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\bin\Debug\COMAddIn.pdb
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\bin\Debug\COMAddIn.tlb
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COM Add-In.csprojResolveAssemblyReference.cache
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COM Add-In.csproj.ResolveComReference.cache
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\Datasim.InputForm.resources
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COM Add-In.csproj.GenerateResource.Cache
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COMAddIn.dll
+D:\CODE\C# for Financial Markets\CsForFinancialMarkets\BookExamples\Ch21\COM Add-in\COMAddIn\obj\Debug\COMAddIn.pdb

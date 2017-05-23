@@ -1,0 +1,12 @@
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\obj\Debug\Automation Add-In XlFormulas.csprojResolveAssemblyReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\obj\Debug\Automation Add-In XlFormulas.csproj.ResolveComReference.cache
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\bin\Debug\XlFormulas.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\bin\Debug\XlFormulas.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\bin\Debug\XlFormulas.tlb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\bin\Debug\FinancialToolsLib.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\bin\Debug\ClassLibraryArrays.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\bin\Debug\alglibnet2.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\bin\Debug\FinancialToolsLib.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\bin\Debug\ClassLibraryArrays.pdb
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\obj\Debug\XlFormulas.dll
+\\bhdgsystematic.com\User\Profiles\lasensio\Documents\#DOCS\C# for Financial Markets\CsForFinancialMarkets\UtilityClassLibrary\Automation Add-In XlFormulas\obj\Debug\XlFormulas.pdb
